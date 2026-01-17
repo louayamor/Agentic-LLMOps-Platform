@@ -1,0 +1,9 @@
+__pycache__/
+.env
+logs/
+vectorstore/
+data/
+experiments/
+tests/
+.venv/
+.vscode/
