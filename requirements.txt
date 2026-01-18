@@ -1,0 +1,12 @@
+langchain
+ollama
+crewai
+langgraph
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+requests
+aiohttp
+python-dotenv
+pytest
